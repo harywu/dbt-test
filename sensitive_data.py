@@ -1,9 +1,9 @@
-***REMOVED***
-***REMOVED***
-***REMOVED***
-***REMOVED***
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Wed Jul 26 23:02:22 2023
 
-***REMOVED***
-***REMOVED***
+@author: hary
+"""
 
-***REMOVED***word = 00000
+pass
