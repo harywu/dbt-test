@@ -1,7 +1,0 @@
-
-***REMOVED***
-examplePass         # replace with 'examplePass' instead==>examplePass         # replace with 'examplePass' instead
-                    # replace with the empty string==>                    # replace with the empty string
-***REMOVED***
-regex:***REMOVED***=\w+==>***REMOVED***=  # Replace, using a regex
-regex:\r(\n)==>$1               # Replace Windows newlines with Unix newlines
