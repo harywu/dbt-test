@@ -10,5 +10,4 @@ Created on Thu Jul 27 13:00:02 2023
 import requests
 
 
-***REMOVED*** = ***REMOVED***
 user = "haryyryry"
