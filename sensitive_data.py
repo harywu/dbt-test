@@ -11,3 +11,6 @@ import requests
 
 
 user = "haryyryry"
+
+if 1:
+    print('Haha')
